@@ -1,0 +1,17 @@
+.primary{
+    background: #3F51B5;
+    color: #fff;
+}
+.accent{
+    background: #E91E63;
+    color: #fff;
+}
+md-card{
+
+}
+button{
+  color: #000;
+}
+input:focus{
+  color: #E91E63;
+}
